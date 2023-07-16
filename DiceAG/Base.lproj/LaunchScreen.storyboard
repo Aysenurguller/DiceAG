@@ -26,7 +26,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="UFG-vg-3iQ" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="91g-dl-KdS"/>
+                            <constraint firstItem="UFG-vg-3iQ" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="91g-dl-KdS"/>
                             <constraint firstAttribute="bottom" secondItem="UFG-vg-3iQ" secondAttribute="bottom" id="CiL-xS-0vF"/>
                             <constraint firstItem="UFG-vg-3iQ" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="LmG-tO-cVb"/>
                             <constraint firstItem="UFG-vg-3iQ" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="OhP-lh-Yi8"/>
